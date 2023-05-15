@@ -1,6 +1,6 @@
 # Proyects
 * Catalogo de videojuegos (Estructura de datos)
-## Skills
+## Lenguage
 * Python 
 * Java
 * MySql
